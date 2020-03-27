@@ -14,6 +14,23 @@
           "value": 400
         }
       ]
+      "nh": {
+      "orderable": true,
+      "customizable": false,
+      "recipe": {
+        "wasp nest": 1,
+        "clump of weeds": 3
+    },
+      },
+      "sources": [
+        "Crafting", "Nook's Cranny"
+        ]
+        "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 400
+      ]
     }
   }
+ "category": "Equipment"
 }
